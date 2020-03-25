@@ -1,0 +1,20 @@
+---
+output: 
+  html_document:
+    css: Estilos.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center> <h1> <b> Rendimiento académico </b> </h1> </center>
+
+<div class="definition_box">
+<i> Es el producto de la asimilación del contenido de los programas de estudio, expresado en calificaciones dentro de una escala convencional; es decir, se refiere al resultado cuantitativo que se obtiene en el proceso de aprendizaje de conocimientos, mediante evaluaciones y otras actividades que realiza el docente. Este es el indicador de calidad más importante de la labor académica de las universidades. </i>
+</div>
+
+<span style="padding-left:30px">
+
+<center><img src="figs/1_RendimientoAcademico_Meme.jpg" width="60%"></center>
+
