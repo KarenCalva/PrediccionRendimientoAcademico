@@ -38,5 +38,3 @@ ModeloInferencia = glmulti(y = formula,
 <center><img src="figs/runR.jfif" width="50%"></center>
 
 <span style="padding-left:15px">
-
-[Resultados del modelo](https://karencalva.shinyapps.io/CursoNivelacionEPN/)
